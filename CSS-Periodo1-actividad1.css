@@ -1,0 +1,3360 @@
+body {
+      background-color: black;
+}
+.bs{
+	background-color: #5DFCB2;
+	display: block;
+	width: 100%;
+	height: 20%;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+    z-index: 1;
+}
+.img{
+	position: absolute;
+	left: 61.5%;
+	top: 27%;
+	width: 440px;
+	height: 440px;
+}
+.ba{
+	position: absolute;
+	left: 55%;
+	top: 24%;
+	width: 0.5%;
+	height: 73.5%;
+	background-color: #5DFCB2;
+}
+.bl{
+	position: absolute;
+	position: absolute;
+	top: 100%;
+	left: 0%;
+	height: 80%;
+	width: 100%;
+	z-index: 4;
+	background-color: white;
+}
+.Titulo{
+	position: absolute;
+	left: 2.7%;
+	top: 8%;
+	width: 49%;
+	height: 14.7%;
+}
+.color1{
+	color: white;
+	font-family: 'Segoe UI Black';
+	font-size: 80px;
+}
+.Texto2{
+	position: absolute;
+	left: 2.7%;
+	top: 38%;
+	width: 49%;
+	height: 5%;
+}
+.color2{
+	color: white;
+	font-family: 'Segoe UI Black';
+	font-size: 35px;
+	text-align: center;
+}
+.TG1{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 1%;
+	top: -14%;
+	width: 90%;
+	z-index: 2;
+}
+.TG2{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 9.8%;
+	top: -14%;
+	z-index: 2;
+}
+.TG3{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 18.6%;
+	top: -14%;
+	z-index: 2;
+}
+.TG4{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 27.4%;
+	top: -14%;
+	z-index: 2;
+}
+.TG5{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 36.2%;
+	top: -14%;
+	z-index: 2;
+}
+.TG6{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 45%;
+	top: -14%;
+	z-index: 2;
+}
+.TG7{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 53.8%;
+	top: -14%;
+	z-index: 2;
+}
+.TG8{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 62.6%;
+	top: -14%;
+	z-index: 2;
+}
+.TG9{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 72.6%;
+	top: -14%;
+	z-index: 2;
+}
+.TG10{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 80.2%;
+	top: -14%;
+	z-index: 2;
+}
+.TG11{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 89%;
+	top: -14%;
+	z-index: 2;
+}
+
+.boton1{
+	position: absolute;
+	left: 5%;
+	top: 105%;
+	height: 10%;
+	width: 18.75%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	border-style: none;
+	border-radius: 40px;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 35px;
+	z-index: 4;
+}
+
+.boton1c{
+	position: absolute;
+	left: 5%;
+	top: 105%;
+	height: 10%;
+	width: 18.75%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	border-style: none;
+	border-radius: 40px;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 35px;
+	z-index: 4;
+}
+
+.boton2{
+	position: absolute;
+	left: 28.75%;
+	top: 105%;
+	height: 10%;
+	width: 18.75%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	border-style: none;
+	border-radius: 40px;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 35px;
+	z-index: 4;
+}
+
+.boton2c{
+	position: absolute;
+	left: 28.75%;
+	top: 105%;
+	height: 10%;
+	width: 18.75%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	border-style: none;
+	border-radius: 40px;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 35px;
+	z-index: 4;
+}
+
+.boton3{
+	position: absolute;
+	left: 52.5%;
+	top: 105%;
+	height: 10%;
+	width: 18.75%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	border-style: none;
+	border-radius: 40px;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 35px;
+	z-index: 4;
+}
+
+.boton3c{
+	position: absolute;
+	left: 52.5%;
+	top: 105%;
+	height: 10%;
+	width: 18.75%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	border-style: none;
+	border-radius: 40px;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 35px;
+	z-index: 4;
+}
+
+.boton4{
+	position: absolute;
+	left: 76.25%;
+	top: 105%;
+	height: 10%;
+	width: 18.75%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	border-style: none;
+	border-radius: 40px;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 35px;
+	z-index: 4;
+}
+
+.boton4c{
+	position: absolute;
+	left: 76.25%;
+	top: 105%;
+	height: 10%;
+	width: 18.75%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	border-style: none;
+	border-radius: 40px;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 35px;
+	z-index: 4;
+}
+
+.esf1-1b{
+	display: none;
+}
+.esf1-1a{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: aa;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes aa{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf1-1e{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-1d{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: aad;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes aad {
+    100% {width: 1px;height: 1px;}
+}
+.esf1-1x{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+
+.esf1-2b{
+	display: none;
+}
+.esf1-2a{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ab;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ab{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf1-2e{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-2d{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: abd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes abd {
+    100% {width: 1px;height: 1px;}
+}
+.esf1-2x{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-3b{
+	display: none;
+}
+.esf1-3a{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ac;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ac{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf1-3e{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-3d{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: acd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes acd {
+    100% {width: 1px;height: 1px;}
+}
+.esf1-3x{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-4b{
+	display: none;
+}
+.esf1-4a{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ad;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ad{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf1-4e{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-4d{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: addd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes addd {
+    100% {width: 1px;height: 1px;}
+}
+.esf1-4x{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-5b{
+	display: none;
+}
+.esf1-5a{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ae;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ae{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf1-5e{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-5d{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: aed;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes aed {
+    100% {width: 1px;height: 1px;}
+}
+.esf1-5x{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-6b{
+	display: none;
+}
+.esf1-6a{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: af;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes af{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf1-6e{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-6d{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: afd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes afd {
+    100% {width: 1px;height: 1px;}
+}
+.esf1-6x{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-7b{
+	display: none;
+}
+.esf1-7a{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ag;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ag{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf1-7e{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-7d{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: agd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes agd {
+    100% {width: 1px;height: 1px;}
+}
+.esf1-7x{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-8b{
+	display: none;
+}
+.esf1-8a{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ah;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ah{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf1-8e{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-8d{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ahd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ahd {
+    100% {width: 1px;height: 1px;}
+}
+.esf1-8x{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-9b{
+	display: none;
+}
+.esf1-9a{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ai;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ai{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf1-9e{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-9d{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: aid;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes aid {
+    100% {width: 1px;height: 1px;}
+}
+.esf1-9x{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-10b{
+	display: none;
+}
+.esf1-10a{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: aj;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes aj{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf1-10e{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf1-10d{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #00FF40);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ajd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ajd {
+    100% {width: 1px;height: 1px;}
+}
+.esf1-10x{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #00FF40, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-1b{
+	display: none;
+}
+.esf2-1a{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ba;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ba{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf2-1e{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-1d{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bad;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bad {
+    100% {width: 1px;height: 1px;}
+}
+.esf2-1x{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-2b{
+	display: none;
+}
+.esf2-2a{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bb;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bb{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf2-2e{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-2d{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bbd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bbd {
+    100% {width: 1px;height: 1px;}
+}
+.esf2-2x{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-3b{
+	display: none;
+}
+.esf2-3a{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bc;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bc{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf2-3e{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-3d{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bcd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bcd {
+    100% {width: 1px;height: 1px;}
+}
+.esf2-3x{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-4b{
+	display: none;
+}
+.esf2-4a{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bd{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf2-4e{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-4d{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bdd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bdd {
+    100% {width: 1px;height: 1px;}
+}
+.esf2-4x{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-5b{
+	display: none;
+}
+.esf2-5a{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: be;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes be{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf2-5e{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-5d{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bed;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bed {
+    100% {width: 1px;height: 1px;}
+}
+.esf2-5x{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-6b{
+	display: none;
+}
+.esf2-6a{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bf;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bf{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf2-6e{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-6d{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bfd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bfd {
+    100% {width: 1px;height: 1px;}
+}
+.esf2-6x{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-7b{
+	display: none;
+}
+.esf2-7a{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bg;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bg{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf2-7e{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-7d{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bgd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bgd {
+    100% {width: 1px;height: 1px;}
+}
+.esf2-7x{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-8b{
+	display: none;
+}
+.esf2-8a{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bh;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bh{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf2-8e{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-8d{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bhd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bhd {
+    100% {width: 1px;height: 1px;}
+}
+.esf2-8x{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-9b{
+	display: none;
+}
+.esf2-9a{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bi;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bi{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf2-9e{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-9d{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bid;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bid {
+    100% {width: 1px;height: 1px;}
+}
+.esf2-9x{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-10b{
+	display: none;
+}
+.esf2-10a{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bj;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bj{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf2-10e{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf2-10d{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #04B431, #31B404);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: bjd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes bjd {
+    100% {width: 1px;height: 1px;}
+}
+.esf2-10x{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #31B404, #04B431);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-1b{
+	display: none;
+}
+.esf3-1a{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ca;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ca{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf3-1e{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-1d{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cad;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cad {
+    100% {width: 1px;height: 1px;}
+}
+.esf3-1x{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-2b{
+	display: none;
+}
+.esf3-2a{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cb;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cb{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf3-2e{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-2d{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cbd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cbd {
+    100% {width: 1px;height: 1px;}
+}
+.esf3-2x{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-3b{
+	display: none;
+}
+.esf3-3a{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cc;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cc{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf3-3e{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-3d{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ccd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ccd {
+    100% {width: 1px;height: 1px;}
+}
+.esf3-3x{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-4b{
+	display: none;
+}
+.esf3-4a{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cd{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf3-4e{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-4d{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cdd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cdd {
+    100% {width: 1px;height: 1px;}
+}
+.esf3-4x{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-5b{
+	display: none;
+}
+.esf3-5a{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ce;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ce{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf3-5e{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-5d{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ced;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ced {
+    100% {width: 1px;height: 1px;}
+}
+.esf3-5x{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-6b{
+	display: none;
+}
+.esf3-6a{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cf;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cf{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf3-6e{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-6d{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cfd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cfd {
+    100% {width: 1px;height: 1px;}
+}
+.esf3-6x{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-7b{
+	display: none;
+}
+.esf3-7a{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cg;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cg{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf3-7e{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-7d{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cgd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cgd {
+    100% {width: 1px;height: 1px;}
+}
+.esf3-7x{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-8b{
+	display: none;
+}
+.esf3-8a{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ch;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ch{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf3-8e{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-8d{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: chd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes chd {
+    100% {width: 1px;height: 1px;}
+}
+.esf3-8x{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-9b{
+	display: none;
+}
+.esf3-9a{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ci;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ci{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf3-9e{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-9d{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cid;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cid {
+    100% {width: 1px;height: 1px;}
+}
+.esf3-9x{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-10b{
+	display: none;
+}
+.esf3-10a{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cj;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cj{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf3-10e{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf3-10d{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #088A08, #4B8A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: cjd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes cjd {
+    100% {width: 1px;height: 1px;}
+}
+.esf3-10x{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #4B8A08, #088A08);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-1b{
+	display: none;
+}
+.esf4-1a{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: da;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes da{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf4-1e{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-1d{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dad;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dad {
+    100% {width: 1px;height: 1px;}
+}
+.esf4-1x{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-2b{
+	display: none;
+}
+.esf4-2a{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: db;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes db{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf4-2e{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-2d{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dbd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dbd {
+    100% {width: 1px;height: 1px;}
+}
+.esf4-2x{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-3b{
+	display: none;
+}
+.esf4-3a{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dc;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dc{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf4-3e{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-3d{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dcd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dcd {
+    100% {width: 1px;height: 1px;}
+}
+.esf4-3x{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-4b{
+	display: none;
+}
+.esf4-4a{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dd{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf4-4e{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-4d{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ddd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ddd {
+    100% {width: 1px;height: 1px;}
+}
+.esf4-4x{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-5b{
+	display: none;
+}
+.esf4-5a{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: de;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes de{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf4-5e{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-5d{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: ded;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes ded {
+    100% {width: 1px;height: 1px;}
+}
+.esf4-5x{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 128%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-6b{
+	display: none;
+}
+.esf4-6a{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: df;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes df{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf4-6e{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-6d{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dfd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dfd {
+    100% {width: 1px;height: 1px;}
+}
+.esf4-6x{
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-7b{
+	display: none;
+}
+.esf4-7a{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dg;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dg{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf4-7e{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-7d{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dgd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dgd {
+    100% {width: 1px;height: 1px;}
+}
+.esf4-7x{
+	display: block;
+	position: absolute;
+	left: 23.75%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-8b{
+	display: none;
+}
+.esf4-8a{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dh;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dh{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf4-8e{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-8d{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dhd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dhd {
+    100% {width: 1px;height: 1px;}
+}
+.esf4-8x{
+	display: block;
+	position: absolute;
+	left: 42.5%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-9b{
+	display: none;
+}
+.esf4-9a{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: di;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes di{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf4-9e{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-9d{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: did;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes did {
+    100% {width: 1px;height: 1px;}
+}
+.esf4-9x{
+	display: block;
+	position: absolute;
+	left: 61.25%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-10b{
+	display: none;
+}
+.esf4-10a{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 1px;
+	height: 1px;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: dj;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes dj{
+	100% {width: 15%;
+	height: 15%;}
+}
+.esf4-10e{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.esf4-10d{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #0B3B17, #21610B);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+	animation-name: djd;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes djd {
+    100% {width: 1px;height: 1px;}
+}
+.esf4-10x{
+	display: block;
+	position: absolute;
+	left: 80%;
+	top: 152%;
+	width: 15%;
+	height: 15%;
+	background: linear-gradient(180deg, #21610B, #0B3B17);
+	z-index: 5;
+	border-style: none;
+	border-radius: 100%;
+	font-family: 'Segoe UI Black';
+	color: #070719;
+	font-size: 30px;
+}
+.t11 {
+	opacity: 0;
+}
+.tb11{
+	opacity: 0;
+	animation-name: laa;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+@keyframes laa {
+	100% {opacity: 1;}
+}
+.to11{opacity: 1;}
+
+.td11{
+	opacity: 1;
+	animation-name: laad;
+	animation-duration: 2s;
+	animation-iteration-count: 1;
+}
+
+@keyframes laad {
+	100% {opacity: 0}
+}
